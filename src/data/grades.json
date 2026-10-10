@@ -1,0 +1,24 @@
+{
+  "STU001": [
+    { "code": "CS201", "name": "Data Structures", "midterm": 85, "final": 90, "assignment": 88, "total": 88 },
+    { "code": "CS202", "name": "Database Systems", "midterm": 78, "final": 82, "assignment": 90, "total": 83 },
+    { "code": "CS203", "name": "Web Development", "midterm": 92, "final": 95, "assignment": 94, "total": 94 },
+    { "code": "MATH201", "name": "Discrete Mathematics", "midterm": 70, "final": 75, "assignment": 80, "total": 75 }
+  ],
+  "STU002": [
+    { "code": "BA301", "name": "Marketing Strategy", "midterm": 88, "final": 91, "assignment": 85, "total": 88 },
+    { "code": "BA302", "name": "Financial Accounting", "midterm": 76, "final": 80, "assignment": 82, "total": 79 },
+    { "code": "BA303", "name": "Organizational Behavior", "midterm": 90, "final": 93, "assignment": 89, "total": 91 }
+  ],
+  "STU003": [
+    { "code": "ME101", "name": "Engineering Mechanics", "midterm": 65, "final": 70, "assignment": 72, "total": 69 },
+    { "code": "ME102", "name": "Thermodynamics", "midterm": 80, "final": 78, "assignment": 85, "total": 81 },
+    { "code": "MATH101", "name": "Calculus I", "midterm": 72, "final": 68, "assignment": 75, "total": 71 }
+  ],
+  "STU004": [
+    { "code": "CS201", "name": "Data Structures", "midterm": 90, "final": 92, "assignment": 95, "total": 92 },
+    { "code": "CS202", "name": "Database Systems", "midterm": 88, "final": 90, "assignment": 91, "total": 90 },
+    { "code": "CS203", "name": "Web Development", "midterm": 95, "final": 97, "assignment": 96, "total": 96 },
+    { "code": "MATH201", "name": "Discrete Mathematics", "midterm": 85, "final": 88, "assignment": 90, "total": 88 }
+  ]
+}

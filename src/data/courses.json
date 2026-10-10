@@ -1,0 +1,24 @@
+{
+  "STU001": [
+    { "code": "CS201", "name": "Data Structures", "credits": 4, "instructor": "Dr. Alan Turing" },
+    { "code": "CS202", "name": "Database Systems", "credits": 3, "instructor": "Prof. Ada Lovelace" },
+    { "code": "CS203", "name": "Web Development", "credits": 3, "instructor": "Dr. Tim Berners-Lee" },
+    { "code": "MATH201", "name": "Discrete Mathematics", "credits": 3, "instructor": "Prof. Euclid" }
+  ],
+  "STU002": [
+    { "code": "BA301", "name": "Marketing Strategy", "credits": 3, "instructor": "Dr. Philip Kotler" },
+    { "code": "BA302", "name": "Financial Accounting", "credits": 4, "instructor": "Prof. Warren Buffett" },
+    { "code": "BA303", "name": "Organizational Behavior", "credits": 3, "instructor": "Dr. Peter Drucker" }
+  ],
+  "STU003": [
+    { "code": "ME101", "name": "Engineering Mechanics", "credits": 4, "instructor": "Dr. Isaac Newton" },
+    { "code": "ME102", "name": "Thermodynamics", "credits": 3, "instructor": "Prof. James Watt" },
+    { "code": "MATH101", "name": "Calculus I", "credits": 4, "instructor": "Dr. Gottfried Leibniz" }
+  ],
+  "STU004": [
+    { "code": "CS201", "name": "Data Structures", "credits": 4, "instructor": "Dr. Alan Turing" },
+    { "code": "CS202", "name": "Database Systems", "credits": 3, "instructor": "Prof. Ada Lovelace" },
+    { "code": "CS203", "name": "Web Development", "credits": 3, "instructor": "Dr. Tim Berners-Lee" },
+    { "code": "MATH201", "name": "Discrete Mathematics", "credits": 3, "instructor": "Prof. Euclid" }
+  ]
+}

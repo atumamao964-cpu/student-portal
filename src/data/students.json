@@ -1,0 +1,42 @@
+[
+  {
+    "id": "STU001",
+    "username": "john.doe",
+    "password": "student123",
+    "name": "John Doe",
+    "email": "john.doe@school.edu",
+    "course": "Computer Science",
+    "year": 2,
+    "avatar": "JD"
+  },
+  {
+    "id": "STU002",
+    "username": "jane.smith",
+    "password": "student123",
+    "name": "Jane Smith",
+    "email": "jane.smith@school.edu",
+    "course": "Business Administration",
+    "year": 3,
+    "avatar": "JS"
+  },
+  {
+    "id": "STU003",
+    "username": "mike.wilson",
+    "password": "student123",
+    "name": "Mike Wilson",
+    "email": "mike.wilson@school.edu",
+    "course": "Mechanical Engineering",
+    "year": 1,
+    "avatar": "MW"
+  },
+  {
+    "id": "STU004",
+    "username": "angelyne",
+    "password": "student123",
+    "name": "Angelyne",
+    "email": "angelyne@school.edu",
+    "course": "Computer Science",
+    "year": 2,
+    "avatar": "AN"
+  }
+]

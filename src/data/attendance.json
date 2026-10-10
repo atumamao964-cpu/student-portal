@@ -1,0 +1,24 @@
+{
+  "STU001": [
+    { "code": "CS201", "name": "Data Structures", "present": 28, "absent": 2, "total": 30, "percentage": 93 },
+    { "code": "CS202", "name": "Database Systems", "present": 25, "absent": 3, "total": 28, "percentage": 89 },
+    { "code": "CS203", "name": "Web Development", "present": 30, "absent": 0, "total": 30, "percentage": 100 },
+    { "code": "MATH201", "name": "Discrete Mathematics", "present": 22, "absent": 6, "total": 28, "percentage": 79 }
+  ],
+  "STU002": [
+    { "code": "BA301", "name": "Marketing Strategy", "present": 26, "absent": 2, "total": 28, "percentage": 93 },
+    { "code": "BA302", "name": "Financial Accounting", "present": 27, "absent": 1, "total": 28, "percentage": 96 },
+    { "code": "BA303", "name": "Organizational Behavior", "present": 24, "absent": 4, "total": 28, "percentage": 86 }
+  ],
+  "STU003": [
+    { "code": "ME101", "name": "Engineering Mechanics", "present": 20, "absent": 8, "total": 28, "percentage": 71 },
+    { "code": "ME102", "name": "Thermodynamics", "present": 25, "absent": 3, "total": 28, "percentage": 89 },
+    { "code": "MATH101", "name": "Calculus I", "present": 23, "absent": 5, "total": 28, "percentage": 82 }
+  ],
+  "STU004": [
+    { "code": "CS201", "name": "Data Structures", "present": 29, "absent": 1, "total": 30, "percentage": 97 },
+    { "code": "CS202", "name": "Database Systems", "present": 27, "absent": 1, "total": 28, "percentage": 96 },
+    { "code": "CS203", "name": "Web Development", "present": 30, "absent": 0, "total": 30, "percentage": 100 },
+    { "code": "MATH201", "name": "Discrete Mathematics", "present": 26, "absent": 2, "total": 28, "percentage": 93 }
+  ]
+}

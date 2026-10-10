@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Midterm Exam Schedule Released",
+    "date": "2026-09-15",
+    "content": "The midterm examination schedule for all courses has been published. Please check the notice board and your course pages for exact dates and venues.",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "title": "Library Extended Hours",
+    "date": "2026-09-12",
+    "content": "The central library will remain open until 10 PM during the exam period (Sept 20 - Oct 5).",
+    "priority": "medium"
+  },
+  {
+    "id": 3,
+    "title": "Career Fair 2026",
+    "date": "2026-09-10",
+    "content": "Annual Career Fair will be held on October 15. Over 50 companies will participate. Register online by October 1.",
+    "priority": "medium"
+  },
+  {
+    "id": 4,
+    "title": "Holiday Notice",
+    "date": "2026-09-08",
+    "content": "College will remain closed on September 25 for the local festival. Classes will resume on September 26.",
+    "priority": "low"
+  }
+]
